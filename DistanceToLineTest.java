@@ -55,7 +55,7 @@ public class DistanceToLineTest
     @Test
     public void testGetDist3()
     {
-        assertEquals(0, DistanceToLine.getDist(0, 0, 5, 3, 7), 0.1);
+        assertEquals(0, DistanceToLine.getDist(0, 0, 5, 3, -1.4), 0.1);
     }
 
     @Test

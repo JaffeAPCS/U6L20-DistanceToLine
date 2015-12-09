@@ -14,8 +14,9 @@ public class DistanceToLine
      */
     public static double getDist(double A, double B, double C, double a, double b)
     {
-        return -1000; // You will remove this line when you write the real function
-                      // This line is in here just to make the unit tests fail
-                      // until you replace it with the correct code.
+        // You will remove this line when you write the real function
+        // This line is in here just to make the unit tests fail
+        // until you replace it with the correct code.
+        return -1000; 
     }
 }
